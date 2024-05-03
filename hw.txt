@@ -1,6 +1,15 @@
 ﻿выполненные задания переносим в Архив(внизу файла)
 ==================================
 Python (получить сертификат*):
+Скачать https://t.me/c/1937296927/1/16676 сначала прочитать 85-95стр, потом всё остальное
+
+Если любишь книги:
+
+скачай https://t.me/c/1937296927/1/18019 и создай два файла в папке Python,
+Перепиши две книги в эти два файла.
+1- posobie.ipynb
+2- byte_of_python.ipynb
+
 1)https://karpov.courses/pythonzero 1 hour
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
