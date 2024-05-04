@@ -43,4 +43,3 @@ typing_extensions==4.9.0
 tzdata==2024.1
 wcwidth==0.2.12
 zipp==3.17.0
-﻿asttokens==2.4.1
