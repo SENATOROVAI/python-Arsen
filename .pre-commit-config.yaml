@@ -127,9 +127,8 @@ repos:
           - types-setuptools
 
         args:
-          - --cache-dir=/dev/null
-          - --cache-dir=nul
-          - --no-incremental
+          - --non-interactive
+          - --install-types
           - --explicit-package-bases
           - --ignore-missing-imports
           - --disallow-untyped-calls
@@ -146,6 +145,7 @@ repos:
           - --warn-unreachable
           - --warn-redundant-casts
           - --warn-return-any
+
 
 
   - repo: https://github.com/pre-commit/mirrors-mypy
@@ -153,9 +153,8 @@ repos:
     hooks:
       - id: mypy
         args:
-          - --cache-dir=/dev/null
-          - --cache-dir=nul
-          - --no-incremental
+          - --non-interactive
+          - --install-types
           - --explicit-package-bases
           - --ignore-missing-imports
           - --disallow-untyped-calls
@@ -172,6 +171,7 @@ repos:
           - --warn-unreachable
           - --warn-redundant-casts
           - --warn-return-any
+
 
 
         additional_dependencies:
